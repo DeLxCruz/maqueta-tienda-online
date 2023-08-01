@@ -96,10 +96,12 @@ body {
 
     #div-text-section1 {
         align-items: center !important;
+        margin-bottom: 1rem !important;
     }
 
     #div-text-section2 {
         align-items: center !important;
+        margin-bottom: 1rem;
     }
 }
 
