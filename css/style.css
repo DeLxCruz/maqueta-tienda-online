@@ -92,6 +92,17 @@ body {
 
 /* RESPONSIVE */
 
+@media (max-width: 768px) {
+
+    #div-text-section1 {
+        align-items: center !important;
+    }
+
+    #div-text-section2 {
+        align-items: center !important;
+    }
+}
+
 
 @media (min-width: 992px) {
     .navbar-expand-lg .navbar-collapse{
