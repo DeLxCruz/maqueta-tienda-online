@@ -118,7 +118,7 @@ body {
 
     #home {
         flex-direction: row !important;
-        justify-content: space-between !important;
+        justify-content: space-evenly !important;
         padding: 0 6rem !important;
     }
 
@@ -141,7 +141,7 @@ body {
 
     #about {
         flex-direction: row-reverse !important;
-        justify-content: space-between !important;
+        justify-content: space-evenly !important;
         padding: 6rem !important;
     }
 
@@ -193,7 +193,7 @@ body {
     }
 
     .padding-section4 {
-        padding: 2rem 4rem 4rem !important;
+        padding: 2rem 5rem 4rem !important;
     }
 
     #section4-title {
