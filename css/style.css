@@ -241,4 +241,21 @@ body {
     #div-text-section2 {
         max-width: 350px !important;
     }
+
+    .text-cards-section3 {
+        max-width: 250px !important;
+    }
+
+    .padding-section4 {
+        padding: 2rem 10rem 4rem !important;
+    }
+
+    #contact {
+        padding: 2rem 12.25rem !important;
+    }
+
+    #footer-div {
+        flex-direction: row !important;
+        justify-content: space-evenly !important;
+    }
 }
