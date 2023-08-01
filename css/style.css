@@ -118,8 +118,8 @@ body {
 
     #home {
         flex-direction: row !important;
-        justify-content: space-evenly !important;
-        padding: 0 6rem !important;
+        justify-content: space-between !important;
+        padding: 2rem 6rem !important;
     }
 
     #div-text-section1 {
@@ -141,8 +141,8 @@ body {
 
     #about {
         flex-direction: row-reverse !important;
-        justify-content: space-evenly !important;
-        padding: 6rem !important;
+        justify-content: space-between !important;
+        padding: 6rem 6rem !important;
     }
 
     #div-text-section2 {
@@ -227,4 +227,18 @@ body {
         height: 1.5rem !important;
     }
 
+}
+
+@media (min-width: 1200px) {
+    #home {
+        padding: 2rem 12.25rem !important;
+    }
+
+    #about {
+        padding: 6rem 12.25rem !important;
+    }
+
+    #div-text-section2 {
+        max-width: 350px !important;
+    }
 }
